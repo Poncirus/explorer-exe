@@ -2,6 +2,10 @@
 
 使用exe代替文件夹快捷方式，让windows磁贴可定制
 
+## 效果
+
+![example](/example.png)
+
 ## 下载
 
 在 [release](https://github.com/LiaoHanwen/explorer-exe/releases) 中下载
